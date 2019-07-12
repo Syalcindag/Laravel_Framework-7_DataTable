@@ -72,7 +72,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/Syalcindag/Laravel_Framework-7_DataTable.git
 ```
 
 Install dependencies:
